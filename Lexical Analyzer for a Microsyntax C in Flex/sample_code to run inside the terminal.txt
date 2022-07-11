@@ -1,0 +1,10 @@
+void main () {
+
+int a, b =5; 
+for (int i = 0; i<5; i = i + 1) {
+ a = a + i;
+}
+float pi = 3.17;
+}
+
+out()
